@@ -1,9 +1,9 @@
 ## Hello!!! sou o Carlos Oliveira, criador de conteúdo de Testes para projetos de software, programação e tecnologia!
 AI ALGUNS DE MEUS CONHECIMENTOS PARA COMPARTILHAR...
 
-<h3 align="left"> <img src="https://komarev.com/ghpvc/?username=carloseduardo1984&label=Profile%20views&color=0e75b6&style=flat" alt="carloseduardo1984" /> A passionate Senior QA Tester Engineer   </h3>
+<h3 align="left"> <img src="https://komarev.com/ghpvc/?username=carloseduardo1984&label=Profile%20views&color=0e75b6&style=flat" alt="carlos-eduardo-1984" /> A passionate Senior QA Tester Engineer   </h3>
 
-- 🔭 I’m currently working on QA Mentoring **Ultima School**
+- 🔭 I’m currently working on QA Mentoring **Rumos School**
 
 <h3 align="left">Connect with me or give me a tip for new studies and lessos:</h3>
 <p align="left">
@@ -15,8 +15,8 @@ AI ALGUNS DE MEUS CONHECIMENTOS PARA COMPARTILHAR...
 </p> 
 
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=carloseduardo1984&show_icons=true&locale=en&layout=compact" alt="carloseduardo1984" />
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=carloseduardo1984&show_icons=true&locale=en" alt="carloseduardo1984" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=carlos-eduardo-1984&show_icons=true&locale=en&layout=compact" alt="carlos-eduardo-1984" />
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=carlos-eduardo-1984&show_icons=true&locale=en" alt="carlos-eduardo-1984" />
 
 <br>
 </br>
