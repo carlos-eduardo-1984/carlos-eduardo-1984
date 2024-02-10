@@ -14,7 +14,7 @@ AI ALGUNS DE MEUS CONHECIMENTOS PARA COMPARTILHAR...
 
 </p> 
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=carlos-eduardo-1984&show_icons=true&locale=en&layout=compact" alt="carloseduardo1984" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=carlos-eduardo-1984" alt="carloseduardo1984" />
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=carlos-eduardo-1984&show_icons=true&locale=en" alt="carloseduardo1984" />
 
 <br>
