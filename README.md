@@ -1,5 +1,7 @@
-## Hello!!! sou o Carlos Oliveira -  https://github.com/carloseduardo1984
+## Hello!!! sou o Carlos Oliveira 
 AI ALGUNS DE MEUS CONHECIMENTOS PARA COMPARTILHAR...
+
+-  https://github.com/carloseduardo1984
 
 <h3 align="left"> <img src="https://komarev.com/ghpvc/?username=carloseduardo1984&label=Profile%20views&color=0e75b6&style=flat" alt="carlos-eduardo-1984" /> A passionate Senior QA Tester Engineer   </h3>
 
