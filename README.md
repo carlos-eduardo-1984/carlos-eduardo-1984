@@ -21,50 +21,58 @@ AI ALGUNS DE MEUS CONHECIMENTOS PARA COMPARTILHAR...
 
 <br>
 </br>
-<h3 align="left">🔭 For AUTOMATION TESTING PIPELINES AND AGILE PROJECTS</h3>     
-<p align="left"> 
-  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img  src="./images/Vscode.svg"    alt="VS Code"    width="40"    height="40"  />
-</a>
-     
-   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-  <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> 
-    <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-    <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
-  <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a>
-    <img align="center" alt="carloseduardo1984-CC" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cucumber/cucumber-plain.svg">
-    <a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> </a> 
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> 
-    <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-  <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a>
-   <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> 
-  <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> 
-   <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
+<h3 align="left">🔭 Domain Technologies for Software Test Automation:</h3>     
+<p align="left">
+
+<h4 align="left">🔭 For Software Testing and QA DevOPs:</h4>    
+<a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer"><img src="./images/intelliJ.png" alt="IntelliJ IDEA" width="40" height="40" /></a>
+<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="./images/Vscode.png" alt="Visual Studio Code" width="40" height="40" /></a>
+<a href="https://www.selenium.dev/" target="_blank" rel="noreferrer"><img src="./images/selenium-logo.png" alt="Selenium" width="40" height="40" /></a>
+<a href="https://robotframework.org/" target="_blank" rel="noreferrer"><img src="./images/Robot-framework-logo.png" alt="RobotFramework" width="40" height="40" /></a>
+<a href="https://playwright.dev/)" target="_blank" rel="noreferrer"><img src="./images/playwright.png" alt="playwright" width="40" height="40" /></a>
+<a href="https://www.cypress.io/" target="_blank" rel="noreferrer"><img src="./images/cypress.png" alt="Cypress" width="40" height="40" /></a>
+<a href="https://cucumber.io/" target="_blank" rel="noreferrer"><img src="./images/cucumber.png" alt="Cucumber" width="40" height="40" /></a>
+<a href="https://developers.openai.com/api/docs/quickstart" target="_blank" rel="noreferrer"><img src="./images/ai.png" alt="Artificial Intelligence" width="40" height="40" /></a>
+<a href="https://modelcontextprotocol.io/" target="_blank" rel="noreferrer"><img src="./images/MCP.jpg" alt="Model Context Protocol" width="40" height="40" /></a>
+<a href="https://jmeter.apache.org/" target="_blank" rel="noreferrer"><img src="./images/jmeter.png" alt="Apache JMeter" width="40" height="40" /></a>
+<a href="https://jestjs.io/" target="_blank" rel="noreferrer"><img src="./images/jest.png" alt="Jest" width="40" height="40" /></a>
+<a href="https://mochajs.org/" target="_blank" rel="noreferrer"><img src="./images/mocha.png" alt="Mocha" width="40" height="40" /></a>
+<a href="https://www.jenkins.io/" target="_blank" rel="noreferrer"><img src="./images/jenkins.png" alt="Jenkins" width="40" height="40" /></a>
+<a href="https://azure.microsoft.com/en-us/resources/cloud-computing-dictionary/what-is-devops/" target="_blank" rel="noreferrer"><img src="./images/DeVOps.png" alt="DevOps" width="40" height="40" /></a>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="./images/git.png" alt="Git" width="40" height="40" /></a>
+<a href="https://github.com/features/actions" target="_blank" rel="noreferrer"><img src="./images/gihub-actions.png" alt="GitHub Actions" width="40" height="40" /></a>
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="./images/docker.png" alt="Docker" width="40" height="40" /></a>
+<a href="https://grafana.com/" target="_blank" rel="noreferrer"><img src="./images/grafana.png" alt="Grafana" width="40" height="40" /></a>
+
+<h4 align="left">🔭 For Software QA:</h4> 
+<a href="https://agilemanifesto.org/" target="_blank" rel="noreferrer"><img src="./images/Agile.png" alt="Agile" width="40" height="40" /></a>
+<a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer"><img src="./images/Jira.png" alt="Jira" width="40" height="40" /></a>
+<a href="https://www.atlassian.com/software/confluence" target="_blank" rel="noreferrer"><img src="./images/Confluence.png" alt="Confluence" width="40" height="40" /></a>
+<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="./images/figma.png" alt="Figma" width="40" height="40" /></a>
+
+<h4 align="left">🔭 SDLC and QA related knowhow:</h4> 
+<a href="https://www.microsoft.com/windows/" target="_blank" rel="noreferrer"><img src="./images/winOS.png" alt="Windows" width="40" height="40" /></a>
+<a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="./images/linuxOS.png" alt="Linux" width="40" height="40" /></a>
+<a href="https://www.android.com/" target="_blank" rel="noreferrer"><img src="./images/androidOS.png" alt="Android" width="40" height="40" /></a>
+<a href="https://developer.android.com/studio" target="_blank" rel="noreferrer"><img src="./images/androidStudio.png" alt="Android Studio" width="40" height="40" /></a>
+<a href="https://dotnet.microsoft.com/apps/xamarin" target="_blank" rel="noreferrer"><img src="./images/xamarin.png" alt="Xamarin" width="40" height="40" /></a>
+<a href="https://developer.apple.com/ios/" target="_blank" rel="noreferrer"><img src="./images/iOS-OS.png" alt="iOS" width="40" height="40" /></a>
+<a href="https://www.google.com/chrome/" target="_blank" rel="noreferrer"><img src="./images/chrome.png" alt="Google Chrome" width="40" height="40" /></a>
+<a href="https://www.mozilla.org/firefox/" target="_blank" rel="noreferrer"><img src="./images/mozilla.png" alt="Mozilla Firefox" width="40" height="40" /></a>
+<a href="https://developer.mozilla.org/docs/Web/HTML" target="_blank" rel="noreferrer"><img src="./images/HTML.png" alt="HTML5" width="40" height="40" /></a>
+<a href="https://developer.mozilla.org/docs/Web/CSS" target="_blank" rel="noreferrer"><img src="./images/CSS.png" alt="CSS3" width="40" height="40" /></a>
+<a href="https://learn.microsoft.com/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="./images/CSHARPl.png" alt="C#" width="40" height="40" /></a>
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="./images/PYTHON.png" alt="Python" width="40" height="40" /></a>
+<a href="https://www.java.com/" target="_blank" rel="noreferrer"><img src="./images/JAVA.png" alt="Java" width="40" height="40" /></a>
+<a href="https://developer.mozilla.org/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="./images/JAVASCRIPT.png" alt="JavaScript" width="40" height="40" /></a>
+<a href="https://nodejs.org/" target="_blank" rel="noreferrer"><img src="./images/nodejs.png" alt="Node.js" width="40" height="40" /></a>
+<a href="https://www.npmjs.com/" target="_blank" rel="noreferrer"><img src="./images/npm.png" alt="NPM" width="40" height="40" /></a>
+<a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"><img src="./images/kafka.png" alt="Apache Kafka" width="40" height="40" /></a>
+<a href="https://www.oracle.com/database/" target="_blank" rel="noreferrer"><img src="./images/oracleDB.png" alt="Oracle Database" width="40" height="40" /></a>
+<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="./images/postgresqlDB.png" alt="PostgreSQL" width="40" height="40" /></a>
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="./images/mysqlDB.png" alt="MySQL" width="40" height="40" /></a>
   
-  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> 
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
-  <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> 
-  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> 
-
-
-  <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> 
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
-  <a href="https://ifttt.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/ifttt/ifttt-ar21.svg" alt="ifttt" width="40" height="40"/> </a> 
-  <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-   <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> 
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
-  <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> 
-  <a href="https://mochajs.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha" width="40" height="40"/> </a> 
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> 
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
-  <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> 
-   <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> 
-  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> 
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
-
-  <a href="https://dotnet.microsoft.com/apps/xamarin" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/xamarin.svg" alt="xamarin" width="40" height="40"/> </a> </p>
+</p>
 
 <div>
   <a href="https://https://www.linkedin.com/in/carlosoliveira1984/>
