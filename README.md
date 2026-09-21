@@ -27,12 +27,12 @@ AI ALGUNS DE MEUS CONHECIMENTOS PARA COMPARTILHAR...
 <p align="left">
 
 <h4 align="left">🔭 For Software Testing and QA DevOPs:</h4>    
-<a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer"><img src="./images/intelliJ.png" alt="IntelliJ IDEA" width="80" height="80" /></a>
+<a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer"><img src="./images/intelliJ.png" alt="IntelliJ IDE" width="80" height="80" /></a>
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="./images/Vscode.png" alt="Visual Studio Code" width="40" height="40" /></a>
 <a href="https://www.selenium.dev/" target="_blank" rel="noreferrer"><img src="./images/selenium-logo.png" alt="Selenium" width="40" height="40" /></a>
-<a href="https://robotframework.org/" target="_blank" rel="noreferrer"><img src="./images/Robot-framework-logo.png" alt="RobotFramework" width="60" height="60" /></a>
+<a href="https://robotframework.org/" target="_blank" rel="noreferrer"><img src="./images/Robot-framework-logo.png" alt="Robot Framework" width="60" height="60" /></a>
 <a href="https://playwright.dev/)" target="_blank" rel="noreferrer"><img src="./images/playwright.png" alt="playwright" width="80" height="80" /></a>
-<a href="https://www.cypress.io/" target="_blank" rel="noreferrer"><img src="./images/cypress.png" alt="Cypress" width="40" height="40" /></a>
+<a href="https://www.cypress.io/" target="_blank" rel="noreferrer"><img src="./images/cypress.png" alt="Cypress Framework" width="40" height="40" /></a>
 <a href="https://cucumber.io/" target="_blank" rel="noreferrer"><img src="./images/cucumber.png" alt="Cucumber" width="40" height="40" /></a>
 
 <a href="https://jmeter.apache.org/" target="_blank" rel="noreferrer"><img src="./images/jmeter.png" alt="Apache JMeter" width="40" height="40" /></a>
